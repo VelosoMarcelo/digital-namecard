@@ -7,8 +7,8 @@ ORG:University of Geneva;
 TITLE: MSc in Innovation, Human Development and Sustainability
 EMAIL;type=INTERNET;type=WORK;type=pref:marceloveloso@lilo.org
 TEL;type=WORK;type=VOICE:+41766166691
-item1.ADR;type=WORK;type=pref:;;Geneva, Switzerland View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item1.ADR;type=WORK;type=pref:;;Geneva, Switzerland View\nSandcrawler\;;;
+item1.X-ABADR:linkedin.com/in/marcelo-veloso-a3159558/
+item2.URL;type=pref:https://www.linkedin.com/in/marcelo-veloso-a3159558/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
